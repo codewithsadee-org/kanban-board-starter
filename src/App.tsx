@@ -1,3 +1,9 @@
+/**
+ * @copyright 2026 codewithsadee
+ * @license Apaceh-2.0
+ */
+
+
 import { Button } from "@/components/ui/button"
 
 export function App() {
